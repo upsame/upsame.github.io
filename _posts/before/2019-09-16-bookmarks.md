@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  自定义书签
+title:  历史书签2019
 no-post-nav: true
-category: it
-tags: [it]
+category: life
+tags: [life]
 excerpt: google浏览器资源
 ---
 
