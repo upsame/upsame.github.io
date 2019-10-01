@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 数学建模
-titlebar: MathModel
+titlebar: mathmodel
 subtitle: <span class="mega-octicon octicon-keyboard"></span>&nbsp;&nbsp;一起建模吧。>&nbsp;&nbsp;>&nbsp;&nbsp;<a href ="https://t.zsxq.com/iYZ3zrR" target="_blank" ><font color="#EB9439">点我直达</font></a>
-menu: MathModel
+menu: mathmodel
 css: ['blog-page.css']
-permalink: /MathModel
+permalink: /mathmodel
 ---
 
 <div class="row">
