@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 内网web服务器搭建以及访问方式
+title: 内网搭建公网可以访问的web服务器
 category: it
 tags: [it]
-excerpt: 内网web服务器搭建以及访问方式
+excerpt: 内网搭建公网可以访问的web服务器
 ---
 
 > 原创
+
 ## 内网服务器搭建
 > 系统环境：windows 7 sp1 x86
-
-> 局域网IP：192.168.0.203
+局域网IP：192.168.0.203
 
 > 配置环境：使用软件 phpstudy pro 小皮系统（包含了 php 环境和 Apache 等环境）；
-> 使用开源私有云系统 KodExplorer 。
+使用开源私有云系统 KodExplorer 。
 
 搭建方法：
 1. 打开 phpstudy pro，开启 Apache或Nginx 功能，使用默认端口80，最好设置为开机自启；

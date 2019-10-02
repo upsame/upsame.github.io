@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Ubuntu18.04中使用KVM
-category: it
-tags: [it]
+category: linux
+tags: [linux]
 excerpt: Ubuntu18.04中使用KVM
 ---
 
