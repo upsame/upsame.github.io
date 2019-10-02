@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Spring Boot 系列文章
-titlebar: spring-boot
+title: Linux 系列文章
+titlebar: Linux
 subtitle: <span class="mega-octicon octicon-cloud-download"></span>&nbsp;&nbsp;
      <a href ="http://www.upsame.com/assets/images/upsame.png">关注公众号：<font color="#00FF00">NONONO </font> </a>
-menu: spring-boot
+menu: linux
 css: ['blog-page.css']
-permalink: /spring-boot
-keywords: Spring Boot 教程,Spring Boot 示例,Spring Boot 学习,Spring Boot 资源,Spring Boot 2.0
+permalink: /linux
+keywords: Linux 教程,Linux 示例,Linux 学习,Linux 资源,Linux
 ---
 
-{% include spring-boot.html %}
+{% include linux.html %}

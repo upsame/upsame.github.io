@@ -54,10 +54,14 @@ paginate_path: 'page:num'
 
 # Navigation. top menu list
 menus:
-
   -
-    href: /python.html
-    label: Python  
+    href: http://kdyun.upsame.com/index.php?share/folder&user=1&sid=TpuDsgE2
+    label: 可道云
+    target: _blank
+    
+  -
+    href: /linux.html
+    label: Linux  
     target: _self
 
   -
@@ -95,14 +99,14 @@ navs:
     label: Home
 
   -
-    href: /spring-boot.html
-    label: Spring Boot
+    href: /python.html
+    label: Python  
     target: _self
     subnav:
 
-      -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
+      # -
+        # subHref: /spring-boot.html
+        # subLabel: Spring Boot
 
       -
         subHref: /spring-cloud.html
