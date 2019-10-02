@@ -6,10 +6,13 @@ tags: [it]
 excerpt: 内网web服务器搭建以及访问方式
 ---
 
+> 原创
 ## 内网服务器搭建
 > 系统环境：windows 7 sp1 x86
+
 > 局域网IP：192.168.0.203
-> 配置环境：使用软件 phpstudy pro 小皮系统（包含了 php 环境和 Apache 等环境）
+
+> 配置环境：使用软件 phpstudy pro 小皮系统（包含了 php 环境和 Apache 等环境）；
 > 使用开源私有云系统 KodExplorer 。
 
 搭建方法：
@@ -17,7 +20,7 @@ excerpt: 内网web服务器搭建以及访问方式
 2. 将KodExplorer解压缩，文件拷贝到D:/phpstudy_pro/www/文件夹下，在Phpstudy_pro软件中设置网站的物理路径为D:/phpstudy_pro/WWW/kodexplorer ，其他设置为默认不变。
 3. 在另一台局域网内主机使用浏览器访问192.168.0.203，可以登陆KodExplorer 系统。
 
-**Ps: ** 可以注意到phpstudy pro平台中还可以开启FTP服务、MySQL服务，需要设置为其他端口。
+**Ps:** 可以注意到phpstudy pro平台中还可以开启FTP服务、MySQL服务，需要设置为其他端口。
 
 
 ## 内网服务映射到公网
@@ -30,7 +33,8 @@ excerpt: 内网web服务器搭建以及访问方式
 **本次使用的是方法1，将192.168.0.203设置DMZ主机**
 
 DMZ主机相当于拥有路由器的公网IP，因此访问公网IP就等于访问DMZ主机。而对于内网，DMZ主机的IP仍然是192.168.0.203 ，内网主机可以通过192.168.0.203访问DMZ，也可以通过公网IP访问DMZ。
-![image0](http://kdyun.upsame.com/data/User/admin/home/document/upsame.com/images/2019/dmz-setting.JPG)
+![image0](http://openshare.zicp.vip/index.php?explorer/fileProxy&accessToken=d21ejVGD4gVXnx9KOxMeoXMdBvlFXNZSol2GZBISu5b4HW80T2IsZGSoVDI0vRZOkqjv6ts8yQ&path=%2Fdocument%2Fupsame.com%2Fimages%2F2019%2Fdmz-setting.JPG)
+
 
 ## 直接使用IP访问
 内网访问：http://192.168.0.203 	或	外网访问：http://139.48.164.169	

@@ -55,7 +55,7 @@ paginate_path: 'page:num'
 # Navigation. top menu list
 menus:
   -
-    href: http://kdyun.upsame.com/index.php?share/folder&user=1&sid=TpuDsgE2
+    href: http://kdyun.upsame.com/index.php?share/folder&user=103&sid=KGhVeZaU
     label: 可道云
     target: _blank
     
@@ -75,7 +75,7 @@ menus:
     target: _self   
 
   -
-    href: /arch.html
+    href: /fpga.html
     label: FPGA
     target: _self
 
@@ -150,11 +150,11 @@ labels:
   -
     href: /payment.html
     label: 支付     
-    target: _self
+    target: _blank
 
   -
-    href: /fastdfs.html
-    label: FastDFS
+    href: /arch.html
+    label: 架构
     target: _blank
 
   -
@@ -192,7 +192,7 @@ classes:
     describe: 写的是我，说的是你
 
   -
-    href: /arch.html
+    href: /fpga.html
     name: FPGA 之路
     describe: 我好难啊！
 
@@ -200,7 +200,7 @@ classes:
  #   href: /java.html
     href: /5G.html
     name: 5G 系列文章
-    describe: 5 Generation，下一个时代
+    describe: 5 Generation，我们的时代
 
 
 # ---------------- #
