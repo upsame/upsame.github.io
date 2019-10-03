@@ -9,7 +9,7 @@
 title:  Upsame
 subtitle: Upsame, the Future !
 name: 遇见·未来 
-email: formaltao@qq.com
+email: upsame@outlook.com
 description: 本站是Upsame的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
 keywords: Upsame,5 Generation,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
@@ -234,19 +234,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: bapai
+    username: upsame
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: bapai
-    repo: blog-comments
+    owner: upsame
+    repo: upsame.blog-comment
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: cde3a330c0e3231deacc
+        client_secret: 5da8e510bead6cbdbbc263b16743ec46fe1eabbd
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: bapai
-    repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    owner: upsame
+    repo: upsame.blog-comment
+    clientID: cde3a330c0e3231deacc
+    clientSecret: 5da8e510bead6cbdbbc263b16743ec46fe1eabbd
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
