@@ -65,4 +65,4 @@ DMZ主机相当于拥有路由器的公网IP，因此访问公网IP就等于访�
 ## 知识梳理
 
 路由器端口交互图：
-![image2](http://kdyun.upsame.com/data/User/admin/home/document/upsame.com/images/2019/web-local-net1.png )
+![image2](http://openshare.zicp.vip/index.php?explorer/fileProxy&accessToken=d21ejVGD4gVXnx9KOxMeoXMdBvlFXNZSol2GZBISu5b4HW80T2IsZGSoVDI0vRZOkqjv6ts8yQ&path=%2Fdocument%2Fupsame.com%2Fimages%2F2019%2Fweb-local-net1.jpg )
