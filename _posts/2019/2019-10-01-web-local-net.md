@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 内网搭建公网可以访问的web服务器
 category: it
@@ -33,7 +33,7 @@ excerpt: 内网搭建公网可以访问的web服务器
 **本次使用的是方法1，将192.168.0.203设置DMZ主机**
 
 DMZ主机相当于拥有路由器的公网IP，因此访问公网IP就等于访问DMZ主机。而对于内网，DMZ主机的IP仍然是192.168.0.203 ，内网主机可以通过192.168.0.203访问DMZ，也可以通过公网IP访问DMZ。
-![image0](http://openshare.zicp.vip/index.php?explorer/fileProxy&accessToken=d21ejVGD4gVXnx9KOxMeoXMdBvlFXNZSol2GZBISu5b4HW80T2IsZGSoVDI0vRZOkqjv6ts8yQ&path=%2Fdocument%2Fupsame.com%2Fimages%2F2019%2Fdmz-setting.JPG)
+![image0](http://kdyun.upsame.com:10080/index.php?explorer/fileProxy&accessToken=d21ejVGD4gVXnx9KOxMeoXMdBvlFXNZSol2GZBISu5b4HW80T2IsZGSoVDI0vRZOkqjv6ts8yQ&path=%2Fdocument%2Fupsame.com%2Fimages%2F2019%2Fdmz-setting.JPG)
 
 
 ## 直接使用IP访问
@@ -52,7 +52,7 @@ DMZ主机相当于拥有路由器的公网IP，因此访问公网IP就等于访�
 
 ### 花生壳的壳域名实现DDNS解析
 通常路由器都可以进行DDNS的配置，如图是路由器 padawan 系统下的设置方法，其余路由器类似：
-![image1](http://kdyun.upsame.com/data/User/admin/home/document/upsame.com/images/2019/web-local-net2.png )
+![image1](http://kdyun.upsame.com:10080/index.php?explorer/fileProxy&accessToken=d21ejVGD4gVXnx9KOxMeoXMdBvlFXNZSol2GZBISu5b4HW80T2IsZGSoVDI0vRZOkqjv6ts8yQ&path=%2Fdocument%2Fupsame.com%2Fimages%2F2019%2Fweb-local-net2.PNG )
 
 在路由器上设置的花生壳账号并登陆后，所以可以通过使用壳域名进行访问，如使用 http://openshare.zicp.vip 访问服务。
 
@@ -65,4 +65,4 @@ DMZ主机相当于拥有路由器的公网IP，因此访问公网IP就等于访�
 ## 知识梳理
 
 路由器端口交互图：
-![image2](http://openshare.zicp.vip/index.php?explorer/fileProxy&accessToken=d21ejVGD4gVXnx9KOxMeoXMdBvlFXNZSol2GZBISu5b4HW80T2IsZGSoVDI0vRZOkqjv6ts8yQ&path=%2Fdocument%2Fupsame.com%2Fimages%2F2019%2Fweb-local-net1.jpg )
+![image2](http://kdyun.upsame.com:10080/index.php?explorer/fileProxy&accessToken=d21ejVGD4gVXnx9KOxMeoXMdBvlFXNZSol2GZBISu5b4HW80T2IsZGSoVDI0vRZOkqjv6ts8yQ&path=%2Fdocument%2Fupsame.com%2Fimages%2F2019%2Fweb-local-net1.jpg )

@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -55,7 +55,7 @@ paginate_path: 'page:num'
 # Navigation. top menu list
 menus:
   -
-    href: http://kdyun.upsame.com/index.php?share/folder&user=103&sid=KGhVeZaU
+    href: http://kdyun.upsame.com:10080/index.php?share/folder&user=103&sid=KGhVeZaU
     label: 可道云
     target: _blank
     
