@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: upsame/upsame.github.io
 github_url: https://github.com/upsame
-url:  http://www.upsame.com
-enforce_ssl:  upsame.com
+url:  https://www.upsame.com
+enforce_ssl:  https://www.upsame.com
 
 ## Gem
 plugins:

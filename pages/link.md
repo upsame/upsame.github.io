@@ -44,7 +44,7 @@ permalink: /link
 
 - [upsame](http://www.upsame.com/) - 个人独立博客
 - [github](https://github.com/upsame) -  我分享代码的地方
-- [微博](http://weibo.com/okaysame) -  我的微博
+- [微博](https://weibo.com/okaysame) -  我的微博
 
 - [CSDN](http://blog.csdn.net/JustinLee2015)  - 博客专家，同步公号内容
 
@@ -54,6 +54,6 @@ permalink: /link
 *需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
 
 - 网站名称：upsame
-- 网站链接：http://www.upsame.com 
+- 网站链接：https://www.upsame.com 
 - 网站描述：Upsame 的个人博客.
 
