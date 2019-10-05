@@ -17,11 +17,11 @@ excerpt: 我的CSDN的资源下载
  - [免费资源 - 手绕电感必备匝数计算工具](
 http://kdyun.upsame.com:10080/index.php?user/publicLink&fid=5065ageUKXHP-00PN7pS8ZEGh5qOpu0vo0EC0b2Nz8DwFGGMI1Yv8HpSGGDCUX41Fs4EQdzKt97z3yA6dWbhzG4XckrC9SOpMb68dH2iPcelq6RLfR8sVDHEuHXotkwd0JvNT_T7d-N7QkTlLVRlLXgM7VXGv0b2fIDBHii1rA&file_name=/Advanced%20RF%20Tool.zip
  )
- - [免费资源 - 一种基于DDS芯片AD9959的高精度信号发生器](http://kdyun.upsame.com:10080/index.php?explorer/fileProxy&accessToken=ce8esIEGXj231FbxC3N3vbRtHB0p_pLtBLIsBG7ovKn1Rw28Y9L1RSYBVzPKT6HbN1bD3Yh2ww&path=%2Fdocument%2FCSDN-share%2F%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8EDDS%E8%8A%AF%E7%89%87AD9959%E7%9A%84%E9%AB%98%E7%B2%BE%E5%BA%A6%E4%BF%A1%E5%8F%B7%E5%8F%91%E7%94%9F%E5%99%A8.pdf)
+ - [免费资源 - 一种基于DDS芯片AD9959的高精度信号发生器](http://kdyun.upsame.com:10080/index.php?explorer/fileProhttp://kdyun.upsame.com:10080/index.php?user/publicLink&fid=e756Bn5AF9qjt7FFFBSgxW3GJ7Q21VzFdKUdGIVz4HybO0iFs-toxP-XHvYhzkR-c3yzdpfa_X1Bi96ejxygUYFjPG9ngj_VgUweDb4CIsOMp0tfj-Ka2AA56oAtiDXdvNWx0x7vRdAFkOvslt1gAonwt5_JTq36Jq-0LSW9uF10DLvbCt20rf5PHYgTAjm94tXeVn1FTg&file_name=/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8EDDS%E8%8A%AF%E7%89%87AD9959%E7%9A%84%E9%AB%98%E7%B2%BE%E5%BA%A6%E4%BF%A1%E5%8F%B7%E5%8F%91%E7%94%9F%E5%99%A8.pdf
+)
 
 
-
-## 感谢来访！[www.upsame.com](http://www.upsame.com)
+## 感谢来访！[www.upsame.com](https://www.upsame.com)
 
 ------
  
