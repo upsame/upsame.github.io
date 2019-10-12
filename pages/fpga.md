@@ -2,7 +2,7 @@
 layout: page
 title: FPGA系列文章
 titlebar: FPGA
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; FastDFS系列文章
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 可编程器件
 menu: fpga
 css: ['blog-page.css']
 permalink: /fpga
