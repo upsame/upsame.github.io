@@ -2,7 +2,7 @@
 layout: page
 title: FPGA系列文章
 titlebar: FPGA
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 可编程器件
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 专业分站 <a href ="http://bc2.net/" target="_blank" ><font color="#EB9439">FPGA博客网</font></a>
 menu: fpga
 css: ['blog-page.css']
 permalink: /fpga
@@ -14,7 +14,7 @@ permalink: /fpga
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='fpga' or post.keywords contains 'fpga' %}
+                {% if post.category=='FPGA' or post.keywords contains 'FPGA' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
