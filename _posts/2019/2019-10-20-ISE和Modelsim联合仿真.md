@@ -21,14 +21,13 @@ excerpt: ISE和Modelsim联合仿真
 > 打开编译库工具“Simulation Library Compilation Wizard”：“开始—所有程序—Xilinx ISE Design Suite 13.4（版本不同就不同）—ISE Design Tools—64-bit Tools（32位的选32-bit Tools）—Simulation Library Compilation Wizard”。
 > 注意，64位系统中默认安装了64位和32位的ISE，如果你想用32位的ISE，那你就得选32位的编译库工具，不能混着用的，而且Modelsim也得装上32位的版本，所以我建议64位系统的就用64位的ISE，而32位系统的没得选，只能用32位的。如图01所示。
 
-![图01](https://upload-images.jianshu.io/upload_images/11383186-aacd3f8a1824e59e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图01](https://bc2.net/assets/image/2019/ISE-Modelsim-pic1.png)
 
 > 打开工具之后，在“Select Simulator”下面选中你所装好的Modelsim版本，我这儿选“Modelsim SE”，在“Simulator Executable Location”下面填入Modelsim.exe的所在的文件夹，点“Browse…”按钮添加也行，我这儿是“D:\modeltech64_10.1a\win64”（不含双引号，下同，除非有特别的说明），如图02，然后Next。
-![图02](https://upload-images.jianshu.io/upload_images/11383186-2ec101bc3294a066.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+![图02](https://s2.ax1x.com/2019/10/21/K1ygMQ.png)
 
 > 之后是选择需要编译的语言，选“Both VHDL and Verilog”，一般两种都要用，如图03，然后Next。
-![图03](https://upload-images.jianshu.io/upload_images/11383186-e33d5da66fa7de47.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图03](https://s2.ax1x.com/2019/10/21/K1yIiV.png)
 
 
 > 接下来是选择设备，默认是全选，如果有一些你实在用不上就不选吧，这样可以省点时间和硬盘空间，全选时挺大条的，如图04，还是Next。
