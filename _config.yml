@@ -75,8 +75,8 @@ menus:
     target: _self   
 
   -
-    href: /fpga.html
-    label: FPGA
+    href: /Computer-Net.html
+    label: Computer Net
     target: _self
 
   -
@@ -112,18 +112,16 @@ navs:
         subHref: /spring-cloud.html
         subLabel: Spring Cloud
 
-  -
-    href: /Computer-Net.html
-    label: Computer Net
-    target: _self
-
-  -
-    
-    href: /5G.html
-    label: 5G
-    target: _self
-    subnav:
-
+      -
+        href: /5G.html
+        label: 5G
+        target: _self
+        subnav:  
+        
+      -
+        href: /fpga.html
+        label: FPGA
+        target: _self
       -
         subHref: /5G.html
         subLabel: 5G系列文章
@@ -152,35 +150,35 @@ labels:
     label: 支付     
     target: _blank
 
-  -
-    href: /arch.html
-    label: 架构
-    target: _blank
+  # -
+    # href: /arch.html
+    # label: 架构
+    # target: _blank
 
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
+  # -
+    # href: /mongodb.html
+    # label: MongoDB
+    # target: _blank
 
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
+  # -
+    # href: /docker.html
+    # label: Docker
+    # target: _blank
 
-  -
-    href: /open-source.html
-    label: Code  
-    target: _blank
+  # -
+    # href: /open-source.html
+    # label: Code  
+    # target: _blank
 
-  -
-    href: /gitchat.html
-    label: Chat
-    target: _blank
+  # -
+    # href: /gitchat.html
+    # label: Chat
+    # target: _blank
 
-  -
-    href: /geektime.html
-    label: 极客
-    target: _blank
+  # -
+    # href: /geektime.html
+    # label: 极客
+    # target: _blank
 
 
 # selected articles
