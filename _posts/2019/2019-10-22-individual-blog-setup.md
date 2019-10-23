@@ -8,12 +8,12 @@ excerpt: 个人博客建立规划
 
 > 原创
 
-首发于我的个人博客 [www.upsame.com](https://www.upsame.com)
+首发于我的个人博客 <a href="https://www.upsame.com" target="_blank"> www.upsame.com </a>
 ### 基础平台选择
 主站采用Github pages搭建，FPGA分站基于Coding pages搭建。
 博客主题均选择开源解决方案。
 建立分站的原因主要是Github国内访问不稳定的问题，其次是Github 博客百度不收录问题。
-> 主站采用Github pages搭建完全根据[技术人如何搭建自己的技术博客](https://www.cnblogs.com/ityouknow/p/9680137.html)的步骤和模板搭建，然后进行了一些自定义设置，并将网站设置为https访问方式，增加安全性。FPGA分站则参照主站的建立方法从一些开源模板中挑选了一个自己认为不错的模板来搭建，由于Coding pages搭建的可以被百度索引，并且实际上访问速度快于Github，所以也有打算将主站也搭建在Coding上。
+> 主站采用Github pages搭建完全根据<a href="https://www.cnblogs.com/ityouknow/p/9680137.html" target="_blank">技术人如何搭建自己的技术博客 </a>的步骤和模板搭建，然后进行了一些自定义设置，并将网站设置为https访问方式，增加安全性。FPGA分站则参照主站的建立方法从一些开源模板中挑选了一个自己认为不错的模板来搭建，由于Coding pages搭建的可以被百度索引，并且实际上访问速度快于Github，所以也有打算将主站也搭建在Coding上。
 
 值得一提的是网上很多吐槽Coding 的Pages服务的，说这也不好那也不好最后都去了Github pages。实际上，目前腾讯与Coding联合打造的腾讯开发者平台上的Coding服务非常好，Github的功能都有，还有无限私有库，值得了解。
 
