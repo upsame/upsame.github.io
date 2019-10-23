@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 个人博客建立规划
-category: computer-net
+category: it
 tags: [it]
 excerpt: 个人博客建立规划
 ---
