@@ -112,24 +112,26 @@ navs:
         subHref: /spring-cloud.html
         subLabel: Spring Cloud
 
-      -
-        href: /5G.html
-        label: 5G
-        target: _self
-        subnav:  
-        
-      -
-        href: /fpga.html
-        label: FPGA
-        target: _self
+  -
+    href: /5G.html
+    label: 5G
+    target: _self
+    subnav:  
       -
         subHref: /5G.html
         subLabel: 5G系列文章
+        target: _blank
         
       -
         subHref: https://www.3gpp.org/
         subLabel: 3GPP 官网
         target: _blank
+        
+  -
+    href: /fpga.html
+    label: FPGA
+    target: _self
+    
 
   -
     href: /archives.html
