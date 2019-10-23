@@ -6,6 +6,8 @@ tags: [FPGA]
 excerpt: ISE和Modelsim联合仿真
 ---
 
+> 原创
+首发于我的个人博客 <a href="https://www.upsame.com" target="_blank"> www.upsame.com </a>
 
 # ISE和Modelsim联合仿真
 
